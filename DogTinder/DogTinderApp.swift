@@ -2,7 +2,7 @@
 //  DogTinderApp.swift
 //  DogTinder
 //
-//  Created by Алиса Третьякова on 12.01.2024.
+//  Created by Alisa Serhiienko on 12.01.2024.
 //
 
 import SwiftUI
